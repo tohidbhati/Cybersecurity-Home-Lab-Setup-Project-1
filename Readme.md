@@ -15,9 +15,9 @@ Windows 7
 
 Windows 10
 
-Windows 11
+Metasploitable 2.0.0
 
-VirtualBox / VMware
+VirtualBox
 
 Internal Network (NAT + Host-only configuration)
 
